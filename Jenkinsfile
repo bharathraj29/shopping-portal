@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 pipeline{
 
+=======
+    pipeline{​​​​​​​
+>>>>>>> 79ab45265b48987d1ebf5144ac31548ba2787330
     agent any
 
 // uncomment the following lines by removing /* and */ to enable
